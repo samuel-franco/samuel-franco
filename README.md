@@ -113,7 +113,7 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
 />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-franco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
