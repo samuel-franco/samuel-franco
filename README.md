@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Samuel Franco, tenho 32 anos e sou natural do Piauí. Concluí o ensino médio na Unidade escolar Deputado Tertuliano M Brabndão e sou graduado em Licenciatura em Física pela UESPI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera polo da cidade de Teresina. Gosto muito de tecnologia e compartilho meu conhecimento através do meu canal no YouTube "Samuel Franco", onde ensino a criar projetos na arêa da programação, e também através do Instagram, com o perfil chamado "@samuel.franco".
+Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino médio na Unidade escolar Deputado Tertuliano M Brabndão. Já sou formado em Licenciatura em Física e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera polo da cidade de Teresina. Gosto muito de tecnologia e compartilho meu conhecimento através do meu canal no YouTube "Samuel Franco", onde ensino a criar projetos na arêa de programação, e também através do Instagram, com o perfil chamado "@samuel.franco".
 
 <p align="left">
     <a href="https://github.com/samuel-franco">
@@ -91,8 +91,8 @@ Me chamo Samuel Franco, tenho 32 anos e sou natural do Piauí. Concluí o ensino
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="mysql"
+    title="mysql" 
     width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
@@ -102,7 +102,7 @@ Me chamo Samuel Franco, tenho 32 anos e sou natural do Piauí. Concluí o ensino
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
