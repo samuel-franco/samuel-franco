@@ -30,3 +30,23 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,jquery,ts,mysql,java" />
   </a>
 </p>
+
+<p align="center">
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=samuel-franco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-franco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
