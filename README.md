@@ -31,6 +31,9 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
   </a>
 </p>
 
+
+### 📊 Estatísticas
+
 <p align="center">
 
 <img 
