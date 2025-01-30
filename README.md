@@ -46,8 +46,6 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
   </a>
 </div>
 
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuel-franco/samuel-franco/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuel-franco/samuel-franco/output/github-contribution-grid-snake-dark.svg">
