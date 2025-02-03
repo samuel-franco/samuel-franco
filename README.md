@@ -6,22 +6,13 @@
 Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino médio na Unidade escolar Deputado Tertuliano M Brabndão. Já sou formado em Licenciatura em Física e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera polo da cidade de Teresina. Gosto muito de tecnologia e compartilho meu conhecimento através do meu canal no YouTube "Samuel Franco", onde ensino a criar projetos na área de programação, e também através do Instagram, com o perfil chamado "@samuel.franco".
 </p>
 
-<p align="left">
-    <a href="https://github.com/samuel-franco">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/samuel-franco?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/samuel-franco?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/samuel-franco?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
 
 ---
 
@@ -42,5 +33,13 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-franco&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-franco&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<p align="left">Progress</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/samuel-franco/samuel-franco/output/snake.svg" alt="Snake animation" />
 
 ###
