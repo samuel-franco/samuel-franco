@@ -35,11 +35,13 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
 
 ### 📊 Estatísticas
 
+<p align="left">Estatísticas</p>
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-franco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-franco&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel-franco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-franco&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-franco&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
