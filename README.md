@@ -24,6 +24,8 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
   </a>
 </p>
 
+---
+
 ### 📊 Estatísticas
 
 ###
@@ -36,9 +38,9 @@ Me chamo Samuel Franco, tenho 20 anos e sou natural do Piauí. Concluí o ensino
 
 ###
 
-<p align="left">Progress</p>
+---
 
-###
+### Progress
 
 <img src="https://raw.githubusercontent.com/samuel-franco/samuel-franco/output/snake.svg" alt="Snake animation" />
 
