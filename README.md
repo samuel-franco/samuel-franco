@@ -1,4 +1,4 @@
-# 💻 Samuel Franco
+# 👩‍💻 Samuel Franco
 
 **`Desenvolvedor FullStack`**
 
