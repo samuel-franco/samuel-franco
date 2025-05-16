@@ -1,6 +1,6 @@
 # 💻 Samuel Franco
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
 <p style='text-align: justify;'>
 Me chamo Samuel Franco, concluí o ensino médio na Unidade escolar Deputado Tertuliano M Brabndão. Já sou formado em Licenciatura em Física e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera polo da cidade de Teresina. Gosto muito de tecnologia e compartilho meu conhecimento através do meu canal no YouTube "Samuel Franco", onde ensino a criar projetos na área de programação, e também através do Instagram, com o perfil chamado "@samuel.franco".
