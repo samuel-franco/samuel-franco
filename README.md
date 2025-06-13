@@ -42,8 +42,13 @@ Me chamo Samuel Franco, concluí o ensino médio na Unidade escolar Deputado Ter
 
 ### Progress
 
-![snake gif](https://github.com/samuel-franco/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuel-franco&repo=samuel-franco&theme=react)](https://github.com/samuel-franco/samuel-franco)
+<!--github stats-->
+<div align="center" style="display: inline">
+   <a href="https://github.com/samuel-franco">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=samuel-franco&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-franco&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+   </div>
+</div>
 
 ###
