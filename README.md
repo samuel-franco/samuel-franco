@@ -3,9 +3,9 @@
 **`Desenvolvedor Java ☕`**
 
 <p style='text-align: justify;'>
-Estudando Java Back-End.
-Já sou formado em Licenciatura em Física.
-Cursando Análise e Desenvolvimento de Sistemas.
+  Estudando Java Back-End.
+  Já sou formado em Licenciatura em Física.
+  Cursando Análise e Desenvolvimento de Sistemas.
 </p>
 
 <div align="left">
