@@ -1,9 +1,11 @@
 # 💻 Samuel Franco
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Java ☕`**
 
 <p style='text-align: justify;'>
-Me chamo Samuel Franco, concluí o ensino médio na Unidade escolar Deputado Tertuliano M Brabndão. Já sou formado em Licenciatura em Física e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhaguera polo da cidade de Teresina. Gosto muito de tecnologia e compartilho meu conhecimento através do meu canal no YouTube "Samuel Franco", onde compartilho a minha rotina de estudos.
+Estudando Java Back-End.
+Já sou formado em Licenciatura em Física.
+Cursando Análise e Desenvolvimento de Sistemas.
 </p>
 
 <div align="left">
