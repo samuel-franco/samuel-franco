@@ -42,7 +42,7 @@ Me chamo Samuel Franco, concluí o ensino médio na Unidade escolar Deputado Ter
 
 ### Progress
 
-![Snake animation](https://github.com/samuelfranco/samuel-franco/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/samuel-franco/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=samuel-franco&repo=samuel-franco&theme=react)](https://github.com/samuel-franco/samuel-franco)
 
