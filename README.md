@@ -2,6 +2,15 @@
 
 **`Desenvolvedor Java ☕`**
 
+```
+public class OlaMundo { 
+    public static void main(String args[]) 
+    { 
+        System.out.println("Olá Mundo!"); 
+    } 
+}
+```
+
 <p style='text-align: justify;'>
   Estudando Java Back-End.<br>
   Já sou formado em Licenciatura em Física.<br>
