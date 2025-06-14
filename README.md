@@ -12,7 +12,7 @@ public class OlaMundo {
 
 <p style='text-align: justify;'>
   Estudando Java Back-End.<br>
-  Já sou formado em Licenciatura em Física.<br>
+  Formado em Licenciatura em Física pela UESPI<br>
   Cursando Análise e Desenvolvimento de Sistemas.<br>
 </p>
 
